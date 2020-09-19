@@ -1,0 +1,64 @@
+/*background*/
+body {
+    background: rgb(213, 248, 250);
+    margin: 0;
+    font-size: 16px;
+    color: #777;
+    }
+/*center pictures*/
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;  
+}
+/*h1 and h2 color*/
+h1,h2,h3,h4 {
+    color: #1a8;
+    text-align: center 
+    }
+/*nav buttons*/
+.btn {
+        border: none;
+        background-color: inherit;
+        padding: 20px 75px;
+        font-size: 16px;
+        cursor: pointer;
+        display: inline-block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+      
+/* On mouse-over */
+.btn:hover {background: #eee;}
+.home {color: green;}
+.home:hover {
+    background-color: #4CAF50;
+    color:white;
+}
+.worldbuildersacademy {color: dodgerblue;}
+.worldbuildersacademy:hover {
+    background: #2196F3;
+    color: white;
+}
+.integratedlearning {color: orange;}
+.integratedlearning:hover {
+    background: #ff9800;
+    color: white;
+}
+.faq {color: red;}
+.faq:hover {
+    background: #f44336;
+    color: white;
+}
+
+.banner {
+    opacity: 0.5;
+}
+.default {color: black;}
+
+
+p {
+    text-align: center 
+}
+
+
